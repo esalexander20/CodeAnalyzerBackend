@@ -1,0 +1,27 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+*.egg-info/
+
+# env files (can opt-in for committing if needed)
+.env
+
+# Compiled Python Files
+__pycache__/
+*.pyc
+*.pyd
+*.so
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Logs and Data
+*.log
+*.sqlite3
+media/
+
+# Operating System files
+.DS_Store
+Thumbs.db
